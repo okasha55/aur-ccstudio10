@@ -1,2 +1,2 @@
 # aur-ccstudio10
-ccstudio aur PKG build
+ccstudio10 aur PKGBUILD
